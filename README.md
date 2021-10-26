@@ -3,6 +3,8 @@ VoltNode™ is a SA818 based UHF/VHF node designed to be compatible with the ope
 
 More info about this project in [Voltlog #385](https://youtu.be/EprSIw-5l6w).
 
+Checkout assembly.pdf above for a drawing with component position and designators. This should help when you are assembling the PCB.
+
 Known issues in revA: The mic negative input on the orangepizero is left floating which could lead to some input noise being amplified. A fix is indicated in the schematic.
 
 ![Image of the assembled PCB](voltnode.JPG)
