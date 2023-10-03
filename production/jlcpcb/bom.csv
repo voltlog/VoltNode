@@ -1,0 +1,23 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3, C5",0603,3,470nF,
+"C2, C4",0603,2,"0,1uF",
+D1,0603,1,LED,C72043
+D2,D_SMA,1,1N4001,
+D3,0603,1,LED,C2286
+D4,0603,1,LED,C72038
+FL1,0500LP15A500,1,0500LP15A500E,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3_ISO14580_Pad,4,MountHole,
+J1,PinHeader_2x13_P2.54mm_Vertical,1,Conn_02x13_Odd_Even,
+J2,PinHeader_1x13_P2.54mm_Vertical,1,Conn_01x13,
+J3,SMA_Amphenol_132134_Vertical,1,Conn_Coaxial,C914559
+JP1,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,1,SolderJumper,
+Q1,SOT-23,1,BC847,
+Q2,SOT-23,1,BC857,
+"R1, R13",0603,2,330R,
+"R10, R15, R2, R8",0603,4,2K2,
+"R11, R3",0603,2,1K,
+"R12, R4, R7",0603,3,10K,
+R14,0603,1,470R,
+"R5, R9",0603,2,47K,
+R6,0603,1,4K7,
+U1,SA818,1,SA818,

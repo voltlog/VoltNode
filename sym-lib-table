@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "voltlog UHF repeater-rescue")(type "KiCad")(uri "${KIPRJMOD}/voltlog UHF repeater-rescue.kicad_sym")(options "")(descr ""))
+)
