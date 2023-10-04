@@ -54,7 +54,7 @@
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
-      (usegerberattributes true)
+      (usegerberattributes false)
       (usegerberadvancedattributes true)
       (creategerberjobfile true)
       (dashed_line_dash_ratio 12.000000)
