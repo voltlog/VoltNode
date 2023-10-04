@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.7"
+      "Version": "(7.0.0)"
     },
-    "CreationDate": "2023-10-03T13:10:00+02:00"
+    "CreationDate": "2023-10-04T12:26:05+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -109,44 +109,53 @@
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
+      "Thickness": 0.48,
       "Material": "FR4",
       "Name": "F.Cu/GND.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to GND.Cu)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "GND.Cu"
     },
     {
       "Type": "Dielectric",
+      "Thickness": 0.48,
       "Material": "FR4",
       "Name": "GND.Cu/PWR.Cu",
       "Notes": "Type: dielectric layer 2 (from GND.Cu to PWR.Cu)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "PWR.Cu"
     },
     {
       "Type": "Dielectric",
+      "Thickness": 0.48,
       "Material": "FR4",
       "Name": "PWR.Cu/B.Cu",
       "Notes": "Type: dielectric layer 3 (from PWR.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
