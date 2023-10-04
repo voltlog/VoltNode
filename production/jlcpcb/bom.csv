@@ -6,11 +6,7 @@ D2,D_SMA,1,1N4001,
 D3,0603,1,LED,C2286
 D4,0603,1,LED,C72038
 FL1,0500LP15A500,1,0500LP15A500E,
-"H1, H2, H3, H4",MountingHole_3.2mm_M3_ISO14580_Pad,4,MountHole,
-J1,PinHeader_2x13_P2.54mm_Vertical,1,Conn_02x13_Odd_Even,
-J2,PinHeader_1x13_P2.54mm_Vertical,1,Conn_01x13,
 J3,SMA_Amphenol_132134_Vertical,1,Conn_Coaxial,C914559
-JP1,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,1,SolderJumper,
 Q1,SOT-23,1,BC847,
 Q2,SOT-23,1,BC857,
 "R1, R13",0603,2,330R,
