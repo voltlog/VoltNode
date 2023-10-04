@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_2x13_P2.54mm_Vertical,1,Conn_02x13_Odd_Even,C2894974
+J2,PinHeader_1x13_P2.54mm_Vertical,1,Conn_01x13,C2894936
+J3,PinSocket_2x13_P2.54mm_Vertical,1,Conn_02x13_Odd_Even,C2897414
+J4,PinSocket_1x13_P2.54mm_Vertical,1,Conn_01x13,C2897376
