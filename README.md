@@ -7,4 +7,6 @@ Checkout assembly.pdf above for a drawing with component position and designator
 
 Known issues in revA: The mic negative input on the orangepizero is left floating which could lead to some input noise being amplified. A fix is indicated in the schematic.
 
+revB: Addressed the issue by addig capacitor to MIC1N.
+
 ![Image of the assembled PCB](voltnode.JPG)
